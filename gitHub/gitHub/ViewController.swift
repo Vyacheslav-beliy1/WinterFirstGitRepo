@@ -14,12 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hellp")
         
-<<<<<<< HEAD
-        
-        print ("Hola")
-=======
         print("hello Slava")
->>>>>>> 3d867010f9d03449cf07d09b7b90b7ccc5e3bec7
         // Do any additional setup after loading the view, typically from a nib.
     }
 
